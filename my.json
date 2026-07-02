@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Cricify Sun NXT",
+        "url":"https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
+        "type": "m3u"
+    },
+    {
+        "name":"CloudPlay JTV+",
+        "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
+        "type": "json"
+    },
+    {
+        "name":"CloudPlay JTV+ 2",
+        "url": "https://m3u-86e.pages.dev/mbtv.json",
+        "type": "json"
+    }
+]
