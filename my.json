@@ -10,18 +10,38 @@
         "type": "m3u"
     },
     {
-        "name": "Alex JTV",
-        "url": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
+        "name": "SK Tech JTV+_I",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv90.m3u[srisk]?ua=sktechtv",
         "type": "m3u"
     },
     {
-        "name": "Alex JStar",
-        "url": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jstar.m3u",
+        "name": "SK Tech JTV WW",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvww.m3u[sktech]?ua=sktechtv",
         "type": "m3u"
     },
     {
         "name": "CloudPlay JTV+",
         "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
         "type": "cloudplay"
+    },
+    {
+        "name": "CloudPlay JTV+ 2",
+        "url": "https://m3u-86e.pages.dev/mbtv.json",
+        "type": "cloudplay"
+    },
+    {
+        "name": "CloudPlay JTV+ Backup",
+        "url": "https://m3u-86e.pages.dev/jtv-mb.json",
+        "type": "cloudplay"
+    },
+    {
+        "name": "Alex JTV",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jtv.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Alex JStar",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jstar.m3u",
+        "type": "m3u"
     }
 ]
