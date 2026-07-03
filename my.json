@@ -1,17 +1,32 @@
 [
     {
-        "name":"Cricify Sun NXT",
-        "url":"https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
+        "name": "Cricify Sun NXT",
+        "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u",
         "type": "m3u"
     },
     {
-        "name":"CloudPlay JTV+",
-        "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
-        "type": "json"
+        "name": "SK Tech JTV+",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv_api.m3u[jtvapi]?ua=sktechtv",
+        "type": "m3u"
     },
     {
-        "name":"CloudPlay JTV+ 2",
+        "name": "Alex JTV",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jtv.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Alex JStar",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jstar.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "CloudPlay JTV+",
+        "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
+        "type": "cloudplay"
+    },
+    {
+        "name": "CloudPlay JTV+ 2",
         "url": "https://m3u-86e.pages.dev/mbtv.json",
-        "type": "json"
+        "type": "cloudplay"
     }
 ]
