@@ -15,11 +15,6 @@
         "type": "m3u"
     },
     {
-        "name": "SK Tech JTV WW",
-        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvww.m3u[sktech]?ua=sktechtv",
-        "type": "m3u"
-    },
-    {
         "name": "CloudPlay JTV+",
         "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
         "type": "cloudplay"
