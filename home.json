@@ -1,10 +1,10 @@
 {
-  "General": ["Sun TV HD", "Star Vijay HD", "Zee Tamil HD", "Colors Tamil HD", "Vasanth TV", "Kalaignar TV", "Polimer TV"],
-  "Entertainment": ["Adithya TV", "KTV HD", "Vijay Super HD", "Vijay Takkar", "Zee Thirai HD", "Jaya TV HD", "Jaya Max"],
-  "Music": ["Sun Music HD", "Raj Musix"],
+  "General": ["Sun TV HD", "Star Vijay HD", "Zee Tamil HD", "Colors Tamil HD", "Vasanth TV", "Sun Life", "Raj TV", "Kalaignar TV", "Polimer TV", "Vendhar TV", "Puthu Yugam", "DD5 Podhigai"],
+  "Entertainment": ["Adithya TV", "KTV HD", "Vijay Super HD", "Vijay Takkar", "Zee Thirai HD", "Jaya TV HD", "Jaya Max", "Raj Digital Plus", "MK Six"],
+  "Music": ["Sun Music HD", "Raj Musix", "Brio TV", "Tunes 6"],
   "Sports": ["Star Sports 1 Tamil HD", "Star Sports 2 Tamil HD", "Star Sports 3", "Sony Ten 1 HD", "Sony Ten 2 HD", "Sony Ten 3 HD", "Sony Ten 4 HD", "Sony Ten 5 HD", "Star Sports Select 1 HD", "Star Sports Select 2 HD"],
-  "Infotainment": ["Animal Planet HD Tamil", "Nat Geo Wild HD", "National Geographic HD", "Discovery HD Tamil", "Discovery Tamil", "Discovery Science English", "History TV18 HD Tamil", "Discovery Turbo", "Sony BBC Earth HD", "Travelxp Tamil"],
+  "Infotainment": ["Animal Planet HD Tamil", "Nat Geo Wild HD", "National Geographic HD", "Discovery HD Tamil", "D Tamil", "Discovery Science English", "History TV18 HD Tamil", "Discovery Turbo", "Sony BBC Earth HD", "Travelxp Tamil"],
   "Kids": ["Chutti TV", "Disney Channel", "Cartoon Network", "Cartoon Network HD+", "Hungama", "Super Hungama", "Nick Tamil", "Pogo Tamil", "Sonic Tamil", "Discovery Kids Tamil", "Sony Yay Tamil", "Animax", "Disney Junior", "Disney International HD", "Nick Junior", "Nick HD+"],
-  "News": ["Sun News", "Polimer News", "Puthiya Thalimurai", "News7 Tamil", "News18 Tamil nadu", "Thanthi TV", "Kalaignar Seithigal", "Jaya Plus"],
+  "News": ["Sun News", "Polimer News", "Puthiya Thalimurai", "News7 Tamil", "News18 Tamil nadu", "News Tamil 24x7", "Thanthi TV", "Kalaignar Seithigal", "Jaya Plus", "News J", "Sathiyam TV"],
   "English": ["Star Movies HD", "Star Movies Select HD", "Sony Pix HD"]
 }
