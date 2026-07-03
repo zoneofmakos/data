@@ -35,6 +35,31 @@
         "type": "cloudplay"
     },
     {
+        "name": "CloudPlay Zee5",
+        "url": "https://json.cloudplay.qzz.io/all-files-raw/zee5.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "CloudPlay Zee5 SD",
+        "url": "https://json.cloudplay.qzz.io/all-files-raw/zee5-sd.json",
+        "type": "cloudplay"
+    },
+    {
+        "name": "CloudPlay Sony (IN)",
+        "url": "https://json.cloudplay.qzz.io/all-files-raw/sony.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "CloudPlay Sony For Worldwide",
+        "url": "https://m3u-86e.pages.dev/sony-world.txt",
+        "type": "m3u"
+    },
+    {
+        "name": "CloudPlay Hotstar",
+        "url": "https://host.cloudplay.me/app/hstr/main-hstr-2.php",
+        "type": "cloudplay"
+    },
+    {
         "name": "Alex JTV",
         "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jtv.m3u",
         "type": "m3u"
@@ -42,6 +67,11 @@
     {
         "name": "Alex JStar",
         "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/jstar.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Alex Zee5",
+        "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/z5.m3u",
         "type": "m3u"
     }
 ]
