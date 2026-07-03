@@ -23,10 +23,5 @@
         "name": "CloudPlay JTV+",
         "url": "https://m3u.cloudplay.qzz.io/pllivejtv2.json",
         "type": "cloudplay"
-    },
-    {
-        "name": "CloudPlay JTV+ 2",
-        "url": "https://m3u-86e.pages.dev/mbtv.json",
-        "type": "cloudplay"
     }
 ]
