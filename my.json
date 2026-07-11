@@ -5,11 +5,6 @@
         "type": "m3u"
     },
     {
-        "name": "Tamil IPTV",
-        "url": "https://iptv-org.github.io/iptv/languages/tam.m3u",
-        "type": "m3u"
-    },
-    {
         "name": "SK Tech JTV+",
         "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv_api.m3u[jtvapi]?ua=sktechtv",
         "type": "m3u"
@@ -77,6 +72,11 @@
     {
         "name": "Alex Zee5",
         "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/z5.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Tamil IPTV",
+        "url": "https://iptv-org.github.io/iptv/languages/tam.m3u",
         "type": "m3u"
     },
     {
