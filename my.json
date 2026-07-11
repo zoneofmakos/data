@@ -5,6 +5,11 @@
         "type": "m3u"
     },
     {
+        "name": "Tamil IPTV",
+        "url": "https://iptv-org.github.io/iptv/languages/tam.m3u",
+        "type": "m3u"
+    },
+    {
         "name": "SK Tech JTV+",
         "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv_api.m3u[jtvapi]?ua=sktechtv",
         "type": "m3u"
@@ -73,17 +78,5 @@
         "name": "Alex Zee5",
         "url": "https://raw.githubusercontent.com/alex4528y/m3u/main/z5.m3u",
         "type": "m3u"
-    },
-    {
-        "name": "DRM Live",
-        "url": "https://la.drmlive.net/tp/playlist",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
-    },
-    {
-        "name": "KLIV JEO",
-        "url": "https://kliv.in/jeo",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     }
 ]
