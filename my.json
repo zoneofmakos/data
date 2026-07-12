@@ -5,11 +5,6 @@
         "type": "m3u"
     },
     {
-        "name": "PremiumPlug JTV+",
-        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
-        "type": "m3u"
-    },
-    {
         "name": "SSK JTV (Pz JIND)",
         "url": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u",
         "type": "m3u"
@@ -17,6 +12,11 @@
     {
         "name": "Alex JPlus",
         "url": "https://alex4528.site/jplus/playlist.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "PremiumPlug JTV+",
+        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
         "type": "m3u"
     },
     {
