@@ -14,9 +14,14 @@
         "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv90.m3u[srisk]?ua=sktechtv",
         "type": "m3u"
     },
-        {
+    {
         "name": "SSK JTV (Pz JIND)",
         "url": "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "PremiumPlug JTV+",
+        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
         "type": "m3u"
     },
     {
