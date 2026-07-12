@@ -5,13 +5,8 @@
         "type": "m3u"
     },
     {
-        "name": "SK Tech JTV+",
-        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv_api.m3u[jtvapi]?ua=sktechtv",
-        "type": "m3u"
-    },
-    {
-        "name": "SK Tech JTV+_I",
-        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv90.m3u[srisk]?ua=sktechtv",
+        "name": "PremiumPlug JTV+",
+        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
         "type": "m3u"
     },
     {
@@ -20,8 +15,18 @@
         "type": "m3u"
     },
     {
-        "name": "PremiumPlug JTV+",
-        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
+        "name": "Alex JPlus",
+        "url": "https://alex4528.site/jplus/playlist.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "SK Tech JTV+",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv_api.m3u[jtvapi]?ua=sktechtv",
+        "type": "m3u"
+    },
+    {
+        "name": "SK Tech JTV+_I",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtv90.m3u[srisk]?ua=sktechtv",
         "type": "m3u"
     },
     {
@@ -57,11 +62,6 @@
     {
         "name": "CloudPlay Sony For Worldwide",
         "url": "https://m3u-86e.pages.dev/sony-world.txt",
-        "type": "m3u"
-    },
-    {
-        "name": "Alex JPlus",
-        "url": "https://alex4528.site/jplus/playlist.m3u",
         "type": "m3u"
     },
     {
