@@ -1,0 +1,1459 @@
+{
+  "metas": [
+    {
+      "id": "tt38123579",
+      "type": "movie",
+      "name": "Sathyavan Savithiri",
+      "poster": "https://image.tmdb.org/t/p/w500/6CTZmOW9YrHxxaYjK56rB8DvefR.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "description": "",
+      "released": "2026-07-24T00:00:00.000Z"
+    },
+    {
+      "id": "tt33379543",
+      "type": "movie",
+      "name": "Jana Nayagan",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "imdbRating": "10.0",
+      "released": "2026-07-22T00:00:00.000Z"
+    },
+    {
+      "id": "tt40242037",
+      "type": "movie",
+      "name": "Sweet Rogue Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/4GO0hCv3AowTaSXlBDyzxlThmez.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Crime",
+        "Comedy",
+        "Mystery"
+      ],
+      "description": "After destroying the Forelli empire, SRK discovers that the last surviving Forelli bloodline is secretly rebuilding its power through corruption and political influence. As a dangerous conspiracy threatens the township once again, SRK launches a final mission to expose the truth, eliminate the heir, and end the Forelli legacy forever.",
+      "released": "2026-07-19T00:00:00.000Z"
+    },
+    {
+      "id": "tt40706424",
+      "type": "movie",
+      "name": "Arulvaan",
+      "poster": "https://image.tmdb.org/t/p/w500/mAL7zUkSoHVl5LzjpuhBuzhJztk.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "Follows Muthuvel, a resolute collector who overcomes all obstacles to educate a tribal girl and provide school access for the entire forest community.",
+      "released": "2026-07-17T00:00:00.000Z"
+    },
+    {
+      "id": "tt39300072",
+      "type": "movie",
+      "name": "Anbe Diana",
+      "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "",
+      "released": "2026-07-17T00:00:00.000Z"
+    },
+    {
+      "id": "tt38990721",
+      "type": "movie",
+      "name": "Lakshmikanthan Kolai Vazhakku",
+      "poster": "https://image.tmdb.org/t/p/w500/pGS1KRODHNYzR35slcgJp9NzMiP.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "description": "A young man convicted of murder awaits execution, while a conflicted judge, an aging hangman, and a morally torn jailer confront the weight of justice, guilt, and humanity in the final hours before dawn.",
+      "released": "2026-07-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt42203456",
+      "type": "movie",
+      "name": "Love Oh Love",
+      "poster": "https://image.tmdb.org/t/p/w500/o6O7sNFE59Zd3LIS2T45e1mt4Q9.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "description": "A couple is in love. One partner's excessive spending pushes the other into debt. When the burdened partner decides to seek a divorce, the other files a police complaint through the leader of a women's association. As they begin living together, they gradually understand each other's struggles. Eventually, they reconcile and choose to continue their life together.",
+      "released": "2026-07-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt35723557",
+      "type": "movie",
+      "name": "Idhayam Murali",
+      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+      "imdbRating": "7.5",
+      "released": "2026-07-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt37458495",
+      "type": "movie",
+      "name": "Gatta Kusthi 2",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "imdbRating": "1.2",
+      "released": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt39182439",
+      "type": "movie",
+      "name": "Con City",
+      "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "description": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+      "imdbRating": "7.0",
+      "released": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "tt37174734",
+      "type": "movie",
+      "name": "Angikaaram",
+      "poster": "https://image.tmdb.org/t/p/w500/rRyz56Fubfwmre6F5QiYyIzKmnT.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "description": "Inspired by true events, this film follows the journey of a man who has had enough, fights for recognition against a system shaped strictly by politics and power.",
+      "released": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "tt35741123",
+      "type": "movie",
+      "name": "Heartin",
+      "poster": "https://image.tmdb.org/t/p/w500/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "description": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+      "imdbRating": "6.0",
+      "released": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "tt42803237",
+      "type": "movie",
+      "name": "Dark Giant",
+      "poster": "https://image.tmdb.org/t/p/w500/jKeyjIdRacMd3iDvSVhdRtF4GJY.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "description": "Dark Giant is a Supernatural Horror and Psychological Family Drama. It Explores How Greed, Guilt, and Generational Trauma Can Manifest as a Literal Curse, Destroying a Family From the Inside Out",
+      "released": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "tt38267486",
+      "type": "movie",
+      "name": "Nooru Sami",
+      "poster": "https://image.tmdb.org/t/p/w500/r9mX5R4jsrospJlWrOE8WqzktnH.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "description": "Selvi, a widowed mother, devotes her life to raising her two sons in a conservative village. Years later, unfulfilled life comes back into focus, challenging deep-rooted traditions. As family and society strongly oppose change, Selvi must choose between societal expectations and her own happiness.",
+      "released": "2026-06-19T00:00:00.000Z"
+    },
+    {
+      "id": "tt28259290",
+      "type": "movie",
+      "name": "Moondram Kan",
+      "poster": "https://image.tmdb.org/t/p/w500/zScF00DoAaZoTxysoxTQk7aUge4.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "description": "Follows the investigation of a factory general manager's murder, where four workers—a mechanic, assistant manager, owner, and new recruit—become the primary suspects.",
+      "released": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt41101621",
+      "type": "movie",
+      "name": "Habeebi",
+      "poster": "https://image.tmdb.org/t/p/w500/kHU73XK0DHhphgo7U6MUQz8ADYv.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "Follows a boy and girl in a Muslim neighbourhood in southern Tamil Nadu whose romance divides their community.",
+      "released": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt39141842",
+      "type": "movie",
+      "name": "Valluvan",
+      "poster": "https://image.tmdb.org/t/p/w500/iq9HZqIhcUe3eYwUdiWxqmGzxSu.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "When a string of high-profile murders rocks the city, investigators uncover a dark secret linking the victims to an unspeakable crime. But even after the alleged killer is caught, the killings don’t stop—revealing a far deeper conspiracy where justice comes at a deadly price.",
+      "released": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt36853497",
+      "type": "movie",
+      "name": "Double Occupancy",
+      "poster": "https://image.tmdb.org/t/p/w500/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "description": "Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
+      "released": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt26654655",
+      "type": "movie",
+      "name": "Charukesi",
+      "poster": "https://image.tmdb.org/t/p/w500/vpLFV4vrb5O56ydvnAvuA1QX6Jm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "description": "A Carnatic musician with Alzheimer's grapples with his prodigal son's lifestyle choices, exploring the intersection of music, memory, and family relationships.",
+      "released": "2026-06-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt29429839",
+      "type": "movie",
+      "name": "Sannidhanam P.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/1CHaHGqw4DaQppjxKDzOzGJCdv7.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "description": "A mother's search for her son who went missing when he was a child.",
+      "released": "2026-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "tt43521066",
+      "type": "movie",
+      "name": "Manasukkul Oru Mazhaicharal",
+      "poster": "https://image.tmdb.org/t/p/w500/tmWnKifjZWBvlGL7W6XiOmIMbZb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "The hero Nakulan is on his way back home enjoying all the changes his village has undergone since he had travelled after for higher studies. He makes a surprise entry and brings in smile in his parents and sisters face. He gives all the gifts which he has bought for them and keeps aside the parcel he had bought for his lover Arthi. After that he goes in search of his school friend Muthu who has his own shop in the market and after that happens to meet his girlfriend and conveys his love for her and she rejects the same. Arthi who is the bread winner for her family rejects Nakuls love, but later situations make her realize his true love and they get united. The situations which bring them together is being neatly showcased in the movie Manasukkul Oru Mazhaicharal.",
+      "released": "2026-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "tt39385419",
+      "type": "movie",
+      "name": "Parimala and Co",
+      "poster": "https://image.tmdb.org/t/p/w500/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "description": "A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
+      "imdbRating": "6.0",
+      "released": "2026-06-05T00:00:00.000Z"
+    },
+    {
+      "id": "tt37971394",
+      "type": "movie",
+      "name": "Blast",
+      "poster": "https://image.tmdb.org/t/p/w500/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+      "imdbRating": "6.9",
+      "released": "2026-05-28T00:00:00.000Z"
+    },
+    {
+      "id": "tt41943990",
+      "type": "movie",
+      "name": "Karaa",
+      "poster": "https://image.tmdb.org/t/p/w500/toWMJcEqHIt7Tqk5UoMGElbDSNI.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "A series of bizarre, comical crimes spirals into chaos, taking a dark turn when characters become trapped in crocodile-infested floodwaters, leading to a deadly encounter with the predators.",
+      "released": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "id": "tt40601101",
+      "type": "movie",
+      "name": "Sattendru Maarudhu Vaanilai",
+      "poster": "https://image.tmdb.org/t/p/w500/tTgiNXkrg9LS6Qjvrnksev7ztIo.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "description": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+      "released": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "id": "tt33988385",
+      "type": "movie",
+      "name": "Karuppu",
+      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "description": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+      "imdbRating": "6.6",
+      "released": "2026-05-14T00:00:00.000Z"
+    },
+    {
+      "id": "tt42382067",
+      "type": "movie",
+      "name": "டே 11",
+      "poster": "https://image.tmdb.org/t/p/w500/qSlg9ai7x0LFjtfPvIGxfvIsHJD.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "description": "Five youngsters become addicted to a mysterious fantasy game that grants every wish instantly. As reality begins to blur, one girl suddenly disappears and is presumed dead. Realizing the game holds the truth, the others re-enter it to uncover its hidden rules.  They discover every wish comes at a cost and must make a painful sacrifice to bring her back forever changed by the consequences of their desires.",
+      "released": "2026-05-08T00:00:00.000Z"
+    },
+    {
+      "id": "tt37737315",
+      "type": "movie",
+      "name": "29",
+      "poster": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "A quirky 29-year-old named Sathya embarks on an unexpected journey of laughter, unlikely friendships, and self-discovery. Through hilarious misadventures and chance encounters, he slowly sees life's bigger picture - its surprises, joys, and second chances.",
+      "imdbRating": "6.9",
+      "released": "2026-05-08T00:00:00.000Z"
+    },
+    {
+      "id": "tt38349827",
+      "type": "movie",
+      "name": "Bromance Kadhal",
+      "poster": "https://image.tmdb.org/t/p/w500/gm8XaKWxu7LKJRrqyQrdABaBJCl.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "In a swipe-right generation, an unromantic boy dares to love the old-school way and proves that staying real is the boldest move of all.",
+      "released": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "id": "tt37458112",
+      "type": "movie",
+      "name": "Kara",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "description": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+      "imdbRating": "5.8",
+      "released": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt41979642",
+      "type": "movie",
+      "name": "Commandovin Love Story",
+      "poster": "https://image.tmdb.org/t/p/w500/cSMgWqXRVK4Q1q9xDqUpa8fLlgL.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "A commando returns home as a Republic Day chief guest and forms a quiet bond with a Ph.D. student during his journey. As duty calls him away, he leaves behind an unsent letter, raising questions of love, fate, and whether their unfinished story finds closure.",
+      "released": "2026-04-24T00:00:00.000Z"
+    },
+    {
+      "id": "tt34239633",
+      "type": "movie",
+      "name": "Breakfast: Accept the Reality",
+      "poster": "https://image.tmdb.org/t/p/w500/xpFEHrivqCbeRem5XQsSmh1TMWi.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "Divorcing couple Rishab and Lakshmi meet counselor Dr. Gangadevi, who recounts a film about Shantanu and heiress Janvi — on hearing that story the couple finds about an estranged person and the get to know about the relationship between them.",
+      "released": "2026-04-24T00:00:00.000Z"
+    },
+    {
+      "id": "tt38890924",
+      "type": "movie",
+      "name": "Battle",
+      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
+      "released": "2026-04-24T00:00:00.000Z"
+    },
+    {
+      "id": "tt41082393",
+      "type": "movie",
+      "name": "Paavakoothu",
+      "poster": "https://image.tmdb.org/t/p/w500/o1TTMEVo4wl7ByjcMDK9tK98BLO.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "Rajesh is in love with a girl named Amudhamozhi in college. She tells him to read a book called Paavakoothu and then tells him what she wants. The book describes stories from different angles, such as Theru koothu, stage play, and cinema. After reading it, he goes to talk to her.",
+      "released": "2026-04-24T00:00:00.000Z"
+    },
+    {
+      "id": "tt26258714",
+      "type": "movie",
+      "name": "Mr. X",
+      "poster": "https://image.tmdb.org/t/p/w500/7aqx7T9FNu1HPCyb0CBjJtjshoU.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "Centers on secret intelligence agency cases involving five major national threats that were thwarted through covert operations.",
+      "imdbRating": "5.5",
+      "released": "2026-04-17T00:00:00.000Z"
+    },
+    {
+      "id": "tt39988920",
+      "type": "movie",
+      "name": "TAXILA",
+      "poster": "https://image.tmdb.org/t/p/w500/glwttqpXxFyFt9wnuSp7I4Cxwo3.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [],
+      "description": "When Earth is obliterated, its shattered fragments and encoded legacy are cast across the stars. Light-years away, a barren world, Taxila, awakens as Earth’s remnants seed it with life, turning humanity’s end into the universe’s next beginning.",
+      "released": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt38489752",
+      "type": "movie",
+      "name": "TN 2026",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "Set in Pollachi, the story follows a powerful landlord, Sivalingam Mandradiyar, who becomes obsessed with a rising actor, Kukanth Kumar, believing he is the next M.G.R. He pours his wealth into shaping the actor's career and political future. But as ambition and fame grow, so does the risk of downfall. Will it lead to power or ruin?",
+      "released": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt37511189",
+      "type": "movie",
+      "name": "Manithan Deivamagalam",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "description": "A hardworking villager and his wife hope to build a better life after starting a small roadside eatery with borrowed money. But when he dares to question local power and demand basic improvements for his neglected village, he finds himself caught in a growing conflict involving debt, politics, and the fight for dignity.",
+      "released": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt30460421",
+      "type": "movie",
+      "name": "Love Insurance Kompany",
+      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "description": "In 2040, an app premised on ensuring romance for all is used widely by the population. When the voice behind the app's AI realizes its misconception to true love, he embarks on a quest to prove that love does not come from a screen.",
+      "imdbRating": "4.8",
+      "released": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt40475760",
+      "type": "movie",
+      "name": "Maragatha Malai",
+      "poster": "https://image.tmdb.org/t/p/w500/lzb1QiuVWSJ89rJWsfJEqWvAfmX.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "description": "Set in the 18th century, Maragatha Malai follows a zamindar, Parthiban, who protects his ancestral treasure from a ruthless gang led by Kabala Vendan. During the conflict, his family gets separated when his young son goes missing in the forest. Years later, through struggle, fate, and divine grace, the family reunites and safeguards their legacy in this period fantasy adventure.",
+      "released": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt30956744",
+      "type": "movie",
+      "name": "Neelira",
+      "poster": "https://image.tmdb.org/t/p/w500/a8HvmTThFuE4lbQ8zCdm7tySgpU.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "War"
+      ],
+      "description": "A wedding eve in 1988 Sri Lanka turns into a hostage standoff when Indian Army soldiers occupy a family's home overnight.",
+      "released": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt38111710",
+      "type": "movie",
+      "name": "Carmeni Selvam",
+      "poster": "https://image.tmdb.org/t/p/w500/1VjWJjNt5jefOJAnxJEvC7B7ulV.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "description": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+      "released": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt32741341",
+      "type": "movie",
+      "name": "Leader",
+      "poster": "https://image.tmdb.org/t/p/w500/eitNeP5lMT67piVVA8h31lb5keN.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "description": "An ordinary man becomes trapped between warring criminal factions and law enforcement, forcing him to use his wits to survive while shielding his loved ones from the deadly crossfire that threatens to consume them all.",
+      "imdbRating": "5.0",
+      "released": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt32873023",
+      "type": "movie",
+      "name": "Kaalidas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "description": "A dedicated Crime Branch officer, Kaalidas, investigates the disappearance of a child in an apartment complex. What begins as a routine missing-person case quickly turns dark when the child and a dog are found murdered. As more mysterious killings occur in the same building, Kaalidas uncovers hidden secrets among the residents and races against time to stop a killer before more live",
+      "imdbRating": "6.0",
+      "released": "2026-04-03T00:00:00.000Z"
+    },
+    {
+      "id": "tt40720168",
+      "type": "movie",
+      "name": "Nee Forever",
+      "poster": "https://image.tmdb.org/t/p/w500/qEYp2LgileilGofZVVLL8Juuh2G.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "A Gen Z couple meets via dating app. Their relationship unfolds with unexpected consequences.",
+      "released": "2026-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt39922368",
+      "type": "movie",
+      "name": "Muga Naga",
+      "poster": "https://image.tmdb.org/t/p/w500/bEz9lkKteL4TeBEe9m5xgkYftzL.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "description": "When a person, driven by self-hatred and inner pain, harms others and betrays friendship in the name of revenge.",
+      "released": "2026-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt39122419",
+      "type": "movie",
+      "name": "Happy Raj",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "imdbRating": "4.5",
+      "released": "2026-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt38693803",
+      "type": "movie",
+      "name": "Satan - The Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "description": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
+      "imdbRating": "4.0",
+      "released": "2026-03-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt38693888",
+      "type": "movie",
+      "name": "Youth",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "description": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "imdbRating": "7.2",
+      "released": "2026-03-19T00:00:00.000Z"
+    },
+    {
+      "id": "tt29377719",
+      "type": "movie",
+      "name": "Kolaiseval",
+      "poster": "https://image.tmdb.org/t/p/w500/umwo3WSWZgVEN9Cv5p8uWfizcuk.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller"
+      ],
+      "description": "A village located in the Thiruvannamalai district has followed a belief for over 200 years. If a woman in the village becomes pregnant, it is customary to cook Pongal and sacrifice a goat to their family deity, which is located in the middle of a large forest nearby.  Now the heroine of the story is nine months pregnant. As per the tradition, the family travels to the temple. However, the forest area surrounding the temple is known for many anti-social activities.  What happens to the family that goes to this mysterious place? Why is the temple located deep inside the forest?",
+      "released": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt39785724",
+      "type": "movie",
+      "name": "Vowels",
+      "poster": "https://image.tmdb.org/t/p/w500/BqHup9TCZtCJfHx5AmYNuOjMCM.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "A romantic anthology of five love stories exploring different dimensions: Attraction, Emotion, Intimacy, Obsession, and Unconditional love, each reflecting diverse emotional experiences.",
+      "released": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt11247720",
+      "type": "movie",
+      "name": "Anthony",
+      "poster": "https://image.tmdb.org/t/p/w500/iSTE5UGlQ5YlPiMdsuCOAnChY9X.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "description": "Set along the coastal shores of Jaffna, the story follows a fisherman and his family  whose lives are inseparably tied to the sea. As he struggles to balance his responsibilities toward his profession and his family, a tender love story unfolds, shaping his choices and testing his values. Daily life within the fishing community  its hardships, traditions, and unspoken bonds, forms the backdrop of the narrative. When personal desires begin to clash with family expectations, the protagonist is forced to confront sacrifice, loyalty, and the true meaning of love. Through moments of romance, conflict, and emotional depth, the film reveals the  strength of family ties and the resilience of a community that survives by trusting the sea and each other.",
+      "released": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt39368916",
+      "type": "movie",
+      "name": "Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
+      "released": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt31455863",
+      "type": "movie",
+      "name": "Kenatha Kanom",
+      "poster": "https://image.tmdb.org/t/p/w500/4jFuUoddURp94ZvL7haeunK7fsm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "description": "Desperate to find water, residents of a parched village start digging a new well, but what they find is not water but a dinosaur fossil.",
+      "released": "2026-03-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt38674977",
+      "type": "movie",
+      "name": "Made in Korea",
+      "poster": "https://image.tmdb.org/t/p/w500/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+      "imdbRating": "7.2",
+      "released": "2026-03-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt40385117",
+      "type": "movie",
+      "name": "Chellamada Nee Enakku",
+      "poster": "https://image.tmdb.org/t/p/w500/bR5aPZadKKgOJs4qTTZBc7NAEDb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "Chellamada Nee Enakku is a Tamil movie starring Vashi Karan, Neha Sri and Boss Venkat in prominent roles. It is directed by Anand Shivam",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt39762179",
+      "type": "movie",
+      "name": "Oh Butterfly!",
+      "poster": "https://image.tmdb.org/t/p/w500/w0g0bhCuxq0VSMVgER9LLhQnil1.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "description": "When a series of unfortunate coincidences involving a woman, her husband and her ex, culminates in a shocking death, her long-lost sister returns to redeem her.",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt39311709",
+      "type": "movie",
+      "name": "Andakagasam",
+      "poster": "https://image.tmdb.org/t/p/w500/taJN2jorDasNzD3Uw9dHnXeTMh5.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [],
+      "description": "Someone who wants to be a hero...He enters a 100-year-old castle where kings lived in search of money...whether he takes the money or not is the story...a story that takes place one night...",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt39130951",
+      "type": "movie",
+      "name": "Yaarra Antha Paiyan Naanthan Antha Paiyan",
+      "poster": "https://image.tmdb.org/t/p/w500/dfyjU8XdjWzhVYGEhMYR16wrxu8.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "Vijay and Shalini’s marriage is crumbling under constant misunderstandings. In the same city, Deepika loses her alcoholic husband Manikandan and is left drowning in loneliness.  Seeking comfort, Deepika and Vijay cross the line and fall into a secret affair.But danger strikes when Sukumar, a corrupt sub-inspector obsessed with Deepika, begins  hunting her for his own desires. As guilt closes in on Vijay and suspicion rises for Shalini, Deepika is trapped between a forbidden relationship and a ruthless predator.  Will Shalini discover the truth? And can Deepika escape Sukumar’s grip before everything collapses?",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt38779833",
+      "type": "movie",
+      "name": "Kadhal Reset Repeat",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt39299630",
+      "type": "movie",
+      "name": "Vadam",
+      "poster": "https://image.tmdb.org/t/p/w500/yXLHQ2lhwFXsNyoaZh5OjOUfWaM.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action"
+      ],
+      "description": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt28867812",
+      "type": "movie",
+      "name": "Aasai",
+      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "description": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt29004931",
+      "type": "movie",
+      "name": "Mustafa Mustafa",
+      "poster": "https://image.tmdb.org/t/p/w500/43f2rZ5GE016leKWIntH3k9CXNN.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "A viral social media clip ruins a man's reputation. Despite his claims it is fake, chaos ensues through white lies and misunderstandings, testing the trust of his friends and his lover.",
+      "released": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt35745479",
+      "type": "movie",
+      "name": "Fourth Floor",
+      "poster": "https://image.tmdb.org/t/p/w500/zWvALKGFD4X8LXVvLIvwIeUfXvC.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "description": "Drawn Back to Chennai by an Unexpected Call From His Former Lover, Dheeren Travels From Mumbai and Checks Into a Secluded Office Guest House. Soon After His Arrival, Disturbing and Inexplicable Events Begin to Unfold Within Its Walls. Night After Night, Dheeren is Plagued by Vivid Dreams—fragments of Memories That Eerily Mirror His Own Past and Unresolved Relationship.  As the Line Between Dreams and Reality Begins to Blur, Dheeren Realizes These Visions Are Not Random. Each Dream is a Clue, Slowly Pulling Him Toward a Buried Truth Connected to His Ex-lover’s Fate. Trapped Between Guilt, Fear, and the Supernatural, Dheeren Must Confront His Past to Uncover What Truly Happened to Her—before the Guest House Claims Him as Its Next Secret.",
+      "released": "2026-02-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt23865792",
+      "type": "movie",
+      "name": "Aazhi",
+      "poster": "https://image.tmdb.org/t/p/w500/1SQ0PL6bf0IHdf2xV8sIiMbc8Wq.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "description": "Mukhila's Father Murthy comes to know about Arul and Mukhilas love affair. Murthy, who works as a boat mechanic, kidnaps Arul in a boat and beats him up. He plans to kill Arul so that he will not fall in love with his daughter. When the boat breaks down in the sea, Murthy, foot stuck in the motor and is both of them survived the rainstorm or not.",
+      "released": "2026-02-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt39255646",
+      "type": "movie",
+      "name": "Thaai Kizhavi",
+      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "An elderly and feared moneylender from a village near Madurai falls seriously ill, prompting her estranged sons and extended family to reunite after years of separation. As tensions rise inside the household, hidden motives, family conflicts, and expectations over her wealth turn her uncertain condition into the center of a chaotic family drama.",
+      "imdbRating": "7.0",
+      "released": "2026-02-27T00:00:00.000Z"
+    },
+    {
+      "id": "tt39980503",
+      "type": "movie",
+      "name": "Siva Sambo",
+      "poster": "https://image.tmdb.org/t/p/w500/7m30qiKershRFUciU4v5YVf6Amt.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "description": "Siva, an ambitious youth aspiring to be a police officer, wins Sivani's love and marries her, only for her to be abducted the very next day by a powerful minister intent on forcing her into marriage. With a dangerous criminal also hunting her, the story centers on Sivani's strength and whether Siva can rescue her from his enemies.",
+      "released": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "id": "tt39940797",
+      "type": "movie",
+      "name": "L.S.S: Love Subscribe Share",
+      "poster": "https://image.tmdb.org/t/p/w500/hylzMKvq8X750xOxQnx1Gb0rVWM.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "Shiva is an Intelligent. Smart College boy, Pooja a pretty young girl from a rich family study in the same college, Pooja falls in love with Shiva behalf of his kindness and gentility. Pooja decides to meet her Divorcee Mother living in Kashi, then Pooja going to Kashi with Shiva to meet her mother. Unfortunately Pooja met with an accident and hospitalized in Brain dead condition. Police takes Shiva to custody. Pooja’s Father Manipal and Uncle Sunil rushes to Kashi on search of Pooja, then all four go in search for Pooja all around the Kashi and Find her in Hospital at last in a brain dead condition. What happens next? Is she recovered from Brain dead condition, is the joins with Shiva? Is the twisted climax of the story.",
+      "released": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "id": "tt38781200",
+      "type": "movie",
+      "name": "Arivaan",
+      "poster": "https://image.tmdb.org/t/p/w500/ag9CHUq5KNw4Di19WRQqfAKsqOq.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "description": "Surya an honest yet hot tempered COP Known for his encounter killings is transferred to Neyveli after another controversial case soon after his arrival. A murder involving a woman named Vinisha shakes the town as Suryadives into the case He must navigate between truth and deceit to protect both Love and Justice.",
+      "released": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "id": "tt39182425",
+      "type": "movie",
+      "name": "Lucky the Superstar",
+      "poster": "https://image.tmdb.org/t/p/w500/fb5ao0wON2Dq3atOy3rikyL8IsP.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "description": "A stray puppy's adventure transforms lives: helping a child heal, bringing a family together, and causing political mayhem while finding her way home.",
+      "imdbRating": "2.3",
+      "released": "2026-02-20T00:00:00.000Z"
+    },
+    {
+      "id": "tt39383516",
+      "type": "movie",
+      "name": "Members of the Problematic Family",
+      "poster": "https://image.tmdb.org/t/p/w500/nGSxYOikhHaG6LYwk2zVzDz1nyj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "description": "A man dies young. Funeral rites – yes; mourning – not so much. A death that stirs and shakes things up. A film that shows the violence of family relationships with uncanny subtlety and verve, the pendulum of void and solace.",
+      "imdbRating": "9.0",
+      "released": "2026-02-18T00:00:00.000Z"
+    },
+    {
+      "id": "tt39674550",
+      "type": "movie",
+      "name": "Dream Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/lFGujFFdclNXyqr9Yq2bpUxnLVP.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "He Falls in Love With an Angel Who Appears in His Dreams. That Love Ends in Heartbreak. Yet The Same Emotions Continue in Real Life Without Changing a Single Frame. The Story Follows How the Hero, Carrying the Same Love in His Heart, Finds a Way to Reclaim the Angel He Lost in His Dream, This Time in Reality",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt39398861",
+      "type": "movie",
+      "name": "Sweety Naughty Crazy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TUdDDC26HQWNS7SdrYHSzyfYgZ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "Shiva, a charming college student juggling three different relationships. As he tries to keep them secret, love, lust, and chaos collide in a playful mix of adult humor, romance, and comedy.",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt39827795",
+      "type": "movie",
+      "name": "Therincha Kadhalinga",
+      "poster": "https://image.tmdb.org/t/p/w500/viW3z1y9RABpkqNyeosLw3JskId.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "Karthi falls in love with a village girl named Pechi,and brings her to Chennai. Karthi suspects Pechi of having illicit relationship with his friends. Pechi does not like Karhik\"s suspecting character,as a result she returns to her village and marries Surender.",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt29996704",
+      "type": "movie",
+      "name": "Mylanji",
+      "poster": "https://image.tmdb.org/t/p/w500/atrTLqZWj3Mpck8ZkbmzMBkoTB0.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "description": "Surya, a National Geographic photographer who struggles with a rare speech disorder, travels to Ooty to capture a rare bird and unexpectedly meets Charu, a lively orphan trapped by a forced marriage. Desperate to escape, Charu decides to fall in love with another man, while unknowingly growing closer to Surya during their birding journeys.. On the day Kathir comes to take Charu away, fate stands still—leaving one haunting question: will love choose truth, or sacrifice?",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt38109700",
+      "type": "movie",
+      "name": "Pookie",
+      "poster": "https://image.tmdb.org/t/p/w500/6b03JRKA8rSmSq8VTh3ssXSpBfr.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "description": "He struggles to tell her he wants to separate. When he finally does, she shares the same thoughts. Suddenly realizing he doesn't want to lose her, they reconcile though both still privately consider breaking up.",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt32864368",
+      "type": "movie",
+      "name": "My Lord",
+      "poster": "https://image.tmdb.org/t/p/w500/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "description": "A man and his wife battle bureaucracy after being wrongly declared dead, while he confronts a kidney trafficking ring connected to corrupt politicians that destroyed his life.",
+      "imdbRating": "6.0",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt8665778",
+      "type": "movie",
+      "name": "Kaa - The Forest",
+      "poster": "https://image.tmdb.org/t/p/w500/awOmezCjTcdyjesrzowHIRYUUbE.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller"
+      ],
+      "description": "When a Cold Blooded Murderer Victor Mahadev’s (Salim Ghouse) Killing Freak Gangs Chasing After Two Boys Into Deep Forests. A Wild Life Photographer Venba Subbaiya (Andrea Jeremiah) Got Into Their Game of Death by Accident. Who is Going to See the Next Dawn is the Unfolding Story. Whether Venba or Victor, Because Survival Really Matters in Deep Forest.",
+      "released": "2026-02-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt39007449",
+      "type": "movie",
+      "name": "Red Label",
+      "poster": "https://image.tmdb.org/t/p/w500/4igrj26TQvSCQ60vgVFSEQfIqeF.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "description": "An ex-student leader returns to campus politics to confront a bully.",
+      "released": "2026-02-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt37028716",
+      "type": "movie",
+      "name": "Yogida",
+      "poster": "https://image.tmdb.org/t/p/w500/qG8xiHPIJJqdH9WKpZXaeOaiouk.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "description": "It is story about a Honest and straightforward lady police Inspector Yogi works in Coimbatore, where she proves a textile mill owner’s “suicide” is actually a murder by his own son, leading to her transfer to the punishment area Vyasarpadi in North Chennai. There she confronts ruthless don Shekar Babu, who controls the area and its police through fear, power, and political influence, but Yogi refuses to bow down and begins taking action against his network.",
+      "released": "2026-02-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt25377130",
+      "type": "movie",
+      "name": "Kadhal Kadhai Sollava",
+      "poster": "https://image.tmdb.org/t/p/w500/5bnBIP6brIVCOgQ6D4lIQ6CbUvs.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "This story tells about \"Micheal And Shreya\" who participate in the Program , which Actor Vijaysethupathi Conducts through FM \"Kadhal Kadhai Sollava\"",
+      "released": "2026-02-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt38123566",
+      "type": "movie",
+      "name": "With Love",
+      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "description": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "imdbRating": "6.7",
+      "released": "2026-02-06T00:00:00.000Z"
+    },
+    {
+      "id": "tt38773508",
+      "type": "movie",
+      "name": "Mayilaa",
+      "poster": "https://image.tmdb.org/t/p/w500/57fdtOf3g6yxfSB322pTMN9Ke0t.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "Mayilaa embarks on a journey as a travelling salesperson in Southern India to fulfil her expensive obligations. The only problem: she doesn’t know how to sell. A sharp yet heartwarming tale of a mother-daughter duo finding their feet on the road.",
+      "released": "2026-01-31T00:00:00.000Z"
+    },
+    {
+      "id": "tt39366667",
+      "type": "movie",
+      "name": "Karuppu Pulsar",
+      "poster": "https://image.tmdb.org/t/p/w500/83i18z9j9Pezyfbd9vO2sz74GcT.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action"
+      ],
+      "description": "Set against the backdrop of jallikattu culture. Two men's lives intersect - one from Chennai who owns a Pulsar motorcycle and another from Madurai with a bull named Karuppu.",
+      "released": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt39522563",
+      "type": "movie",
+      "name": "Granny",
+      "poster": "https://image.tmdb.org/t/p/w500/eaeKmjzKOKFOGmXOoURrVsLncqF.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror"
+      ],
+      "description": "Granny is an upcoming film directed by Vijaya Kumara, starring Vadivukkarasi, Dhileepan, Singampuli, Gaja Raja, Ananthu Nag, and Aparna in prominent roles.",
+      "released": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt38496328",
+      "type": "movie",
+      "name": "Mellisai",
+      "poster": "https://image.tmdb.org/t/p/w500/tkXbSUHh9XhEwUQkSiCZxUfbtYm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "description": "A beautiful family drama woven around a central theme of father daughter bond which emphasizes human emotions at its depths.A daughters wish to make her dad participate in a reality show singing competition forms the crux of this emotional family dramaThe story takes place in two different time lines which reflects all these emotions in a poetic harmony of love, ambition, failure, success and the wheel of life.",
+      "released": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt32278140",
+      "type": "movie",
+      "name": "Lockdown",
+      "poster": "https://image.tmdb.org/t/p/w500/upUB6qQVrAQ3jUUSUkDFOfGFdQn.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller"
+      ],
+      "description": "During a national emergency, Anita finds herself isolated at home while facing personal challenges. As she adapts to the new reality, an unexpected situation tests her resilience and changes her perspective on life.",
+      "imdbRating": "7.0",
+      "released": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt8205190",
+      "type": "movie",
+      "name": "Gandhi Talks",
+      "poster": "https://image.tmdb.org/t/p/w500/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy"
+      ],
+      "description": "A silent black comedy, about the monetary needs of a character & how it impacts the others. A young, unemployed graduate Mahadev’s struggle to land a job through any means possible and crosses paths with a businessman and petty thief. A subject wherein silence speaks much louder than words. Although a work of fiction by the writer, all the characters in the film are sketched out to seem very real and relatable ensuring an enriching journey as well a laugh riot as the cat and mouse guffaws amongst them unfold. Gandhi Talks aims at telling a story by switching off the device of dialogue, which is not only scary but also interesting and challenging.",
+      "imdbRating": "7.3",
+      "released": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "id": "tt33088887",
+      "type": "movie",
+      "name": "Hotspot 2 Much",
+      "poster": "https://image.tmdb.org/t/p/w500/hyjPxlIfljrzdQes1XAABfYvOsj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "description": "The film is about an aspiring Director, who pitches her three different stories, that depict some pressing ideological and social issues in the society, to a producer with whom she also has an hidden agenda.",
+      "imdbRating": "3.0",
+      "released": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "tt39122441",
+      "type": "movie",
+      "name": "Jockey",
+      "poster": "https://image.tmdb.org/t/p/w500/69zi48P9NIwPq7qdssxQ8qqbBNG.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action"
+      ],
+      "description": "The film Jackie is based on the ancient goat fighting tradition of Madurai. In a village in Madurai, Ramar and Karthi enter their goats into a goat fight competition. Ramars goat wins the competition. Envious, Karthi tries to take revenge on Ramar and his goat, causing various troubles for Ramar. Ramar thwarts these attempts and protects his goat.",
+      "released": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "tt33063741",
+      "type": "movie",
+      "name": "Draupathi 2",
+      "poster": "https://image.tmdb.org/t/p/w500/vojJemS5USdagshMLWS8JyrU8x6.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "description": "In 14th century AD, people were suffering from the brutality of the Madurai Sultanate and the Delhi Sultan. The Hoysala Emperor Vallalar III protected his empire and people with diplomacy. The sacrifice and betrayal of some changed the course of a kingdom. Insidious interventions disrupt the lives of people and the stability of the state.",
+      "released": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "tt8555488",
+      "type": "movie",
+      "name": "Maayabimbum",
+      "poster": "https://image.tmdb.org/t/p/w500/6zMiVFdjJ4JXlkeHctHYQQOtEoy.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "description": "A man’s illusion of love turns tragic when misplaced desire and misunderstanding pull him into consequences he never anticipated.",
+      "released": "2026-01-23T00:00:00.000Z"
+    },
+    {
+      "id": "tt43329494",
+      "type": "movie",
+      "name": "Three Pieces",
+      "poster": "https://image.tmdb.org/t/p/w500/9HThRZw3CchnswMvPe7OUJl1NtD.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "description": "Three friends quickly realize they keep ending up at the same location repeatedly (marked at 10:33 on a timer/clock). Every time they try to move forward, they're pulled back to the exact same spot, experiencing the same bell sound and events over and over again.",
+      "released": "2026-01-22T00:00:00.000Z"
+    },
+    {
+      "id": "tt36926733",
+      "type": "movie",
+      "name": "Thalaivar Thambi Thalaimaiyil",
+      "poster": "https://image.tmdb.org/t/p/w500/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "description": "A village official attending a wedding becomes entangled in an escalating family dispute over power and old resentments, testing his leadership as he tries to contain the situation.",
+      "imdbRating": "6.2",
+      "released": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "tt26234108",
+      "type": "movie",
+      "name": "Vaa Vaathiyaar",
+      "poster": "https://image.tmdb.org/t/p/w500/hb1YWskm1H2YwNj2KF2BGWgLA58.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "description": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+      "imdbRating": "4.5",
+      "released": "2026-01-14T00:00:00.000Z"
+    },
+    {
+      "id": "tt38854883",
+      "type": "movie",
+      "name": "Anantha",
+      "poster": "https://image.tmdb.org/t/p/w500/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "description": "An anthology film centered on the divine grace and miracles of Sri Sathya Sai Baba, showcasing how faith transforms lives, featuring stories of a mischievous man's redemption and a village facing floods, emphasizing universal love and divinity, not a specific religion",
+      "imdbRating": "2.0",
+      "released": "2026-01-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt35019998",
+      "type": "movie",
+      "name": "Parasakthi",
+      "poster": "https://image.tmdb.org/t/p/w500/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "History",
+        "Drama",
+        "Action",
+        "Romance"
+      ],
+      "description": "In a time of civil disobedience in the erstwhile Madras state, a ruthless intelligent officer turns up with a duty to track down rebels. Chezhian and his brother Chinndurai are of different personalities, one a hardworking fireman, the other a rebel. A deadly game of cat and mouse ensues as Chezhian is forced to abandon his peaceful ways to protect his people and takes on the mighty forces, culminating in a fierce battle for justice.",
+      "imdbRating": "6.0",
+      "released": "2026-01-09T00:00:00.000Z"
+    },
+    {
+      "id": "tt39028191",
+      "type": "movie",
+      "name": "Dear Radhi",
+      "poster": "https://image.tmdb.org/t/p/w500/9m7Bq47NxPxbJrkzu3QaDiv1D1W.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "description": "Madhan goes on a one-day date with Radhi, a beautiful girl who works at a spa; the day spirals into a dangerous chase as both the police and a gang hunt for Radhi, ending in a shocking truth that reveals their connection.",
+      "imdbRating": "6.0",
+      "released": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt39292347",
+      "type": "movie",
+      "name": "Kaakaa",
+      "poster": "https://image.tmdb.org/t/p/w500/fl7vU6bo6ShoaxPCC8WXnVZKD3i.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy"
+      ],
+      "description": "A rough person from madurai, an educated person from thiruchchi, and a curiosity disorder person from chennai and there was a situation where these three persons had to fall in love with two elder sisters and one younger sister. and there was competition and challenges arise but the rest of the story was about whom the sisters will fall in love and get married. this is a full-length comedy film and love story named kaaka.",
+      "released": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt39195777",
+      "type": "movie",
+      "name": "Justice for Jeni",
+      "poster": "https://image.tmdb.org/t/p/w500/lxNJzRszqYgRSdWlyyXUJD0RHm4.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "description": "Jeni and priyanka are best friends andambitious medical students with dreams of making a difference in the world.their bond is unbreakable. however, their lives take a tragic turn when jenigets brutally raped and dies unexpectedly. devastated by the loss, priya isconsumed by grief and anger. she decides to seek justice for her friend'suntimely death. as she navigates the complex legal process, she becomesincreasingly disillusioned with the system and status quo.",
+      "released": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt39228907",
+      "type": "movie",
+      "name": "Anali",
+      "poster": "https://image.tmdb.org/t/p/w500/swU1gHR88apVPthor7RVv8AOa1j.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "Entire Story takes place over a single night. It revolves around Jansi and her 8yr old child, who gets trapped between third world war tensions and dangereous men Lal Chetta, Khan Bhai & Ranga Reddy. These men far more dangerous than wild animals. The Note film thrillingly portraits by how Jansi uses her intelligence to escape and bring everything to an end.",
+      "released": "2026-01-02T00:00:00.000Z"
+    }
+  ]
+}

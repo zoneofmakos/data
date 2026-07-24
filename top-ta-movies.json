@@ -1,0 +1,464 @@
+{
+  "metas": [
+    {
+      "id": "tt5959980",
+      "type": "movie",
+      "name": "Vada Chennai",
+      "poster": "https://image.tmdb.org/t/p/w500/tl3WcNY41um1OOsjr3z6eqK31yN.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "description": "Anbu, a young carrom player in North Chennai becomes inadvertently involved in an ongoing conflict between two local gangsters.",
+      "imdbRating": "7.8",
+      "released": "2018-10-17T00:00:00.000Z"
+    },
+    {
+      "id": "tt10189514",
+      "type": "movie",
+      "name": "Soorarai Pottru",
+      "poster": "https://image.tmdb.org/t/p/w500/5uimlxPCgAei8JfQUDFEUQLoyyh.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "description": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way.",
+      "imdbRating": "7.8",
+      "released": "2020-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "tt7019942",
+      "type": "movie",
+      "name": "Super Deluxe",
+      "poster": "https://image.tmdb.org/t/p/w500/rTsYDdFWyw87CTk4YgJO6nYmVcJ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "description": "An unfaithful newly-wed wife, an estranged parent, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+      "imdbRating": "7.7",
+      "released": "2019-03-29T00:00:00.000Z"
+    },
+    {
+      "id": "tt26548265",
+      "type": "movie",
+      "name": "Maharaja",
+      "poster": "https://image.tmdb.org/t/p/w500/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"Lakshmi\" has been taken, leaving them uncertain if it's a person or object, jeer at his request until they learn what they're really looking for.",
+      "imdbRating": "7.7",
+      "released": "2024-06-14T00:00:00.000Z"
+    },
+    {
+      "id": "tt7019842",
+      "type": "movie",
+      "name": "96",
+      "poster": "https://image.tmdb.org/t/p/w500/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Romance"
+      ],
+      "description": "Ram is a photographer and nature lover who travels all around India capturing moments. On a chance visit to his hometown Tanjavur, he goes into his school and begins to walk down memory lane to 1994 when he was a student harboring feelings for his classmate Janu.",
+      "imdbRating": "7.7",
+      "released": "2018-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "tt9900782",
+      "type": "movie",
+      "name": "Kaithi",
+      "poster": "https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "description": "Dilli, a convicted criminal, is out on parole to meet his daughter. However, a drug bust sets him off on a mission to save the life of police officers.",
+      "imdbRating": "7.6",
+      "released": "2019-10-25T00:00:00.000Z"
+    },
+    {
+      "id": "tt9179430",
+      "type": "movie",
+      "name": "Vikram",
+      "poster": "https://image.tmdb.org/t/p/w500/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "description": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+      "imdbRating": "7.6",
+      "released": "2022-06-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt9477520",
+      "type": "movie",
+      "name": "Asuran",
+      "poster": "https://image.tmdb.org/t/p/w500/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "description": "A family from the underprivileged class is on the run after the teenaged son kills a rich man from the upper caste. Can the pacifist father be able to save his hot-blooded son?",
+      "imdbRating": "7.5",
+      "released": "2019-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt4987556",
+      "type": "movie",
+      "name": "Thani Oruvan",
+      "poster": "https://image.tmdb.org/t/p/w500/90ZpZw1qZlt0RUVByJATFVUEeEm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "description": "An idealistic cop and an ambitious scientist-businessman indulge in a high-stake battle of wits.",
+      "imdbRating": "7.5",
+      "released": "2015-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "tt7060344",
+      "type": "movie",
+      "name": "Ratsasan",
+      "poster": "https://image.tmdb.org/t/p/w500/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "description": "A serial killer is murdering school girls, and a newbie cop has to track him down before the victim count increases.",
+      "imdbRating": "7.4",
+      "released": "2018-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "tt27118357",
+      "type": "movie",
+      "name": "Amaran",
+      "poster": "https://image.tmdb.org/t/p/w500/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure",
+        "War"
+      ],
+      "description": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+      "imdbRating": "7.4",
+      "released": "2024-10-31T00:00:00.000Z"
+    },
+    {
+      "id": "tt0376127",
+      "type": "movie",
+      "name": "Anniyan",
+      "poster": "https://image.tmdb.org/t/p/w500/c00EX1zqb8DppHIRB6d51kN5Y27.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "description": "Unable to tolerate society's injustices and devastated by rejection from the woman he loves, a meek lawyer develops a split personality: one side a vengeful vigilante killer punishing evildoers, the other a dashing playboy capable of winning her heart. Complications arise when the three sides begin to collide.",
+      "imdbRating": "7.4",
+      "released": "2005-06-17T00:00:00.000Z"
+    },
+    {
+      "id": "tt15097216",
+      "type": "movie",
+      "name": "Jai Bhim",
+      "poster": "https://image.tmdb.org/t/p/w500/ehybiOtBUtrMkmtB39zQEtq1Jie.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "History"
+      ],
+      "description": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?",
+      "imdbRating": "7.3",
+      "released": "2021-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "tt2187153",
+      "type": "movie",
+      "name": "Thuppakki",
+      "poster": "https://image.tmdb.org/t/p/w500/18Hvx5MDIVnoexyehnGmMQE1lod.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "Captain Jagadish, an intelligence officer in the Indian Army, returns to Mumbai for a vacation but soon finds himself in a deadly mission. After witnessing a bus bombing, he uncovers a network of sleeper cells planning multiple attacks across the city. With no official backing, he embarks on a personal mission with his trusted comrades to eliminate the mastermind, ensuring the sleeper cells remain leaderless and trapped in silence, waiting for orders that will never come. Ready to sacrifice his own life, he sets out on his final mission—but does he succeed, and at what cost?",
+      "imdbRating": "7.3",
+      "released": "2012-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt23628262",
+      "type": "movie",
+      "name": "The Elephant Whisperers",
+      "poster": "https://image.tmdb.org/t/p/w500/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary"
+      ],
+      "description": "Bomman and Bellie, a couple in south India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other.",
+      "imdbRating": "7.3",
+      "released": "2022-12-07T00:00:00.000Z"
+    },
+    {
+      "id": "tt6485666",
+      "type": "movie",
+      "name": "Mersal",
+      "poster": "https://image.tmdb.org/t/p/w500/65Q1wpRPZ5E3UVUv2V5JBbJQCcj.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2017",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "description": "A few individuals in the medical profession are murdered or kidnapped, and the cop investigating the case suspects a doctor and arrests him. But is he the one who is behind these crimes? And why are they being committed?",
+      "imdbRating": "7.3",
+      "released": "2017-10-18T00:00:00.000Z"
+    },
+    {
+      "id": "tt6148156",
+      "type": "movie",
+      "name": "Vikram Vedha",
+      "poster": "https://image.tmdb.org/t/p/w500/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2017",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Adventure"
+      ],
+      "description": "A notorious gangster Vedha surrenders himself to encounter specialist Vikram whom he challenges every step of the way by narrating his life events in the form of riddles that needs to be solved in order to capture him.",
+      "imdbRating": "7.3",
+      "released": "2017-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "tt4981966",
+      "type": "movie",
+      "name": "24",
+      "poster": "https://image.tmdb.org/t/p/w500/8d8TTADw3p75Zr4ypNWD66oqUXI.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "description": "Scientist turned Entrepreneur Dr. Sethuraman tries to safeguard his newly invented time travel device from falling into the hands of his Evil Twin Brother Aathreya.",
+      "imdbRating": "7.2",
+      "released": "2016-05-05T00:00:00.000Z"
+    },
+    {
+      "id": "tt3801314",
+      "type": "movie",
+      "name": "Kaththi",
+      "poster": "https://image.tmdb.org/t/p/w500/y8hvai0Y96Fz1yqyvtAG0hnATuZ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "description": "Kathiresan aka Kaththi, a criminal, escapes from the Kolkata prison and comes to Chennai, where he comes across his doppelganger Jeevanandham, fighting for his life after being shot at by unknown men. Kathir decides to pass off as Jeeva and make away with a lump sum amount but once he realizes who Jeeva really is, Kathir turns a crusader.",
+      "imdbRating": "7.1",
+      "released": "2014-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "tt0479751",
+      "type": "movie",
+      "name": "Sivaji: The Boss",
+      "poster": "https://image.tmdb.org/t/p/w500/t5oPb8q91gdClkyJG2hxyebEglv.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2007",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "description": "A wealthy engineer arrives in India with the mission of serving the nation and investing in the country's welfare but is met with strong opposition from corrupt officials and politicians. After being faced with insurmountable hardships, he decides to take drastic measures.",
+      "imdbRating": "7.1",
+      "released": "2007-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "tt15654328",
+      "type": "movie",
+      "name": "Leo",
+      "poster": "https://image.tmdb.org/t/p/w500/2XUHC4lp3tDsgfFLFygNZ2x2Um9.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "description": "Parthiban, a cafe owner, lives with his family in Himachal Pradesh. Things take an absurd turn for him when he gets in the way of a drug cartel.",
+      "imdbRating": "6.9",
+      "released": "2023-10-18T00:00:00.000Z"
+    },
+    {
+      "id": "tt0449951",
+      "type": "movie",
+      "name": "Ghajini",
+      "poster": "https://image.tmdb.org/t/p/w500/fWCiwGeABg5APrLGHV2IgxoP20N.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller"
+      ],
+      "description": "After being hit by an iron rod, Sanjay Ramaswamy, a business tycoon, suffers from anterograde amnesia. He is unable to remember anything beyond fifteen minutes. Under such circumstances, he sets out on a quest to find the people who were responsible for his lover Kalpana's murder.",
+      "imdbRating": "6.9",
+      "released": "2005-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "tt5440700",
+      "type": "movie",
+      "name": "Theri",
+      "poster": "https://image.tmdb.org/t/p/w500/gyw2ybu40F7xeoIDLtmz3ABa6fu.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "description": "When an honest cop, Vijay Kumar's family is ruthlessly slaughtered by a politician and his aides, he decides to change his identity and commits his life to bring his daughter up in a serene atmosphere. But some freak events end up compromising his identity and what he does to save his daughter and avenge the death of his family unfurls as Theri.",
+      "imdbRating": "6.8",
+      "released": "2016-04-14T00:00:00.000Z"
+    },
+    {
+      "id": "tt2302966",
+      "type": "movie",
+      "name": "I",
+      "poster": "https://image.tmdb.org/t/p/w500/itDqpdxcI5urnL9KJGJiOusn5g9.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Romance"
+      ],
+      "description": "A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
+      "imdbRating": "6.7",
+      "released": "2015-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "tt10579952",
+      "type": "movie",
+      "name": "Master",
+      "poster": "https://image.tmdb.org/t/p/w500/wjbOlovDadOdPKkSAMohLCjbIsc.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster, who uses the children of the school for criminal activities.",
+      "imdbRating": "6.6",
+      "released": "2021-01-13T00:00:00.000Z"
+    },
+    {
+      "id": "tt1305797",
+      "type": "movie",
+      "name": "Enthiran",
+      "poster": "https://image.tmdb.org/t/p/w500/hai6CSCLxULO1RThjDP3lWAqOtQ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "description": "Dr. Vaseegaran creates Chitti, a powerful robot in his own image, but it is rejected by the scientific body AIRD due to its lack of human behaviour and emotions. After a lightning strike triggers emotions in Chitti, he begins to develop human-like feelings. However, Chitti falls in love with Dr. Vaseegaran's fiancée, Sana, and turns against his creator, leading to dangerous consequences.",
+      "imdbRating": "6.5",
+      "released": "2010-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "tt11663228",
+      "type": "movie",
+      "name": "Jailer",
+      "poster": "https://image.tmdb.org/t/p/w500/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Comedy",
+        "Adventure"
+      ],
+      "description": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+      "imdbRating": "6.5",
+      "released": "2023-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "tt2199711",
+      "type": "movie",
+      "name": "Vishwaroopam",
+      "poster": "https://image.tmdb.org/t/p/w500/6j0ie6qImOH0ndS7uaZb4879PwC.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "Vishwanathan, a Kathak dance teacher in New York, is happy in his marriage with Nirupama, a nuclear oncologist who married him to pursue higher studies in the USA. Deciding to cut ties with her husband, Nirupama hires a private detective to monitor his activities. To her utter shock, certain truths about her husband are subsequently revealed, setting off a chain of events that will change both of their lives irreversibly.",
+      "imdbRating": "6.4",
+      "released": "2013-01-25T00:00:00.000Z"
+    },
+    {
+      "id": "tt5080556",
+      "type": "movie",
+      "name": "2.0",
+      "poster": "https://image.tmdb.org/t/p/w500/igWtprRqAQfJWoaUkjF0rm1nA66.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "description": "An ornithologist who commits suicide returns as fifth force to wreack vengeance on mankind for harming birds with mobile phone radiation. The only thing that is standing in his way is 2.0, the upgraded version of Chitti, the robot.",
+      "imdbRating": "5.9",
+      "released": "2018-11-29T00:00:00.000Z"
+    }
+  ]
+}
