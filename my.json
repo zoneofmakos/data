@@ -5,8 +5,8 @@
         "type": "m3u"
     },
     {
-        "name": "SK Tech JTV+",
-        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvmix.m3u[skmixjtv]?ua=sktechtv",
+        "name": "STB+ Zio",
+        "url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u",
         "type": "m3u"
     },
     {
@@ -15,13 +15,13 @@
         "type": "m3u"
     },
     {
-        "name": "STB+ Zio",
-        "url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/Zio.m3u",
+        "name": "JoIPTV JoJo Pocket",
+        "url": "https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/pocket.m3u",
         "type": "m3u"
     },
     {
-        "name": "JoIPTV JoJo Pocket",
-        "url": "https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/pocket.m3u",
+        "name": "SK Tech JTV+",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvmix.m3u[skmixjtv]?ua=sktechtv",
         "type": "m3u"
     },
     {
@@ -50,11 +50,6 @@
         "type": "m3u"
     },
     {
-        "name": "Alex JPlus",
-        "url": "https://alex4528.site/jplus/playlist.m3u?1=1",
-        "type": "m3u"
-    },
-    {
         "name": "PremiumPlug JTV+",
         "url": "https://jio.shoeblivesite.dpdns.org/",
         "type": "m3u",
@@ -65,6 +60,11 @@
         "url": "https://la.drmlive.net/tp/playlist",
         "type": "m3u",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
+    },
+    {
+        "name": "Alex JPlus",
+        "url": "https://alex4528.site/jplus/playlist.m3u?1=1",
+        "type": "m3u"
     },
     {
         "name": "Tamil IPTV",
