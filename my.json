@@ -16,22 +16,17 @@
     },
     {
         "name": "CP JTV+",
-        "url": "https://m3u.cloudplay.qzz.io/prm-m3u/pllive-prm.m3u",
+        "url": "https://host.cloudplay.qzz.io/app/jtv/pllive-prm.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 2",
-        "url": "https://m3u.cloudplay.qzz.io/prm-m3u/mbjtv-pro.m3u",
-        "type": "m3u"
-    },
-    {
-        "name": "CP JTV+ 3",
-        "url": "https://m3u.cloudplay.qzz.io/prm-m3u/jtv-host.m3u",
+        "url": "https://host.cloudplay.qzz.io/app/jtv/mbjtv-ng.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ Backup",
-        "url": "https://m3u.cloudplay.qzz.io/prm-m3u/wt-mbtv.txt",
+        "url": "https://host.cloudplay.qzz.io/app/jtv/wt-mbtv-ng.php",
         "type": "m3u"
     },
     {
@@ -45,13 +40,18 @@
         "type": "m3u"
     },
     {
-        "name": "Pocket PP JTV+",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/teachub.m3u",
+        "name": "SK Tech JTV++",
+        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvskplus.m3u[plusjtv]?ua=sktechtv",
         "type": "m3u"
     },
     {
-        "name": "Pocket SS JTV",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/strx.m3u",
+        "name": "Pocket PP JTV",
+        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/strx.json",
+        "type": "premiumplug"
+    },
+    {
+        "name": "Pocket SS JTV+",
+        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/teachub.m3u",
         "type": "m3u"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "name": "PremiumPlug JTV+",
-        "url": "https://jio.shoeblivesite.dpdns.org/",
+        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
         "type": "m3u",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
