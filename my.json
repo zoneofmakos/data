@@ -10,11 +10,6 @@
         "type": "m3u"
     },
     {
-        "name": "STB+ ZioMobile",
-        "url": "https://raw.githubusercontent.com/Sflex0719/STBPLUS/main/ZioMobile.m3u",
-        "type": "m3u"
-    },
-    {
         "name": "CP JTV+",
         "url": "https://host.cloudplay.qzz.io/app/jtv/pllive-prm.php",
         "type": "m3u"
