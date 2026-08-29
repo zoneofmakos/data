@@ -57,7 +57,7 @@
     {
         "name": "PremiumPlug JTV+",
         "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
-        "type": "m3u",
+        "type": "premiumplug",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
