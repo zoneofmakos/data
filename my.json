@@ -40,24 +40,15 @@
         "type": "m3u"
     },
     {
-        "name": "Pocket PP JTV",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/strx.json",
-        "type": "premiumplug"
+        "name": "PremiumPlug VIP",
+        "url": "https://premiumplugx.com/VIP/playlist.m3u",
+        "type": "m3u",
+        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
-        "name": "Pocket SS JTV+",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/teachub.m3u",
-        "type": "m3u"
-    },
-    {
-        "name": "Pocket Alex",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/alex.m3u",
-        "type": "m3u"
-    },
-    {
-        "name": "PremiumPlug JTV+",
-        "url": "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/",
-        "type": "premiumplug",
+        "name": "StreamX JTV",
+        "url": "https://yashzeotvplus.livenoww.workers.dev/",
+        "type": "m3u",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
