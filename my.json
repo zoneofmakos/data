@@ -60,14 +60,12 @@
     {
         "name": "StreamX JTV",
         "url": "https://yashzeotvplus.livenoww.workers.dev/",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
+        "type": "m3u"
     },
     {
         "name": "StreamStar JTV",
         "url": "https://mute-sunset-8225.streamstar18.workers.dev/",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
+        "type": "m3u"
     },
     {
         "name": "Alex JPlus",
