@@ -53,6 +53,12 @@
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
+        "name": "HeyLookMe JTV",
+        "url": "https://hey-lookme.shop/proxy.php",
+        "type": "premiumplug",
+        "ua": "Mozilla/5.0 (Android 15; Mobile; rv:140.0) Gecko/140.0 Firefox/140.0 "
+    },
+    {
         "name": "Pocket-TV",
         "url": "https://tamil-m3u-b58859.gitlab.io/",
         "type": "m3u"
