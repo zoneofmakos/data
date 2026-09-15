@@ -36,6 +36,17 @@
         "type": "m3u"
     },
     {
+        "name": "CP Sony (PasteBin)",
+        "url": "https://pastebin.com/raw/1bBkZcX4",
+        "type": "m3u"
+    },
+    {
+        "name": "PZ Sony",
+        "url": "https://pzsl.pzcdn.workers.dev/?get-pl",
+        "type": "m3u",
+        "ua": "mozila"
+    },
+    {
         "name": "SK Tech JTV+",
         "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvmix.m3u[skmixjtv]?ua=sktechtv",
         "type": "m3u"
