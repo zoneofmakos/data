@@ -16,11 +16,6 @@
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
-        "name": "Sportlive18 JTV+7",
-        "url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/jtvplus7.m3u",
-        "type": "m3u"
-    },
-    {
         "name": "CP JTV+",
         "url": "https://host.cloudplay.qzz.io/app/jtv/pllive-prm.php",
         "type": "m3u"
@@ -46,11 +41,6 @@
         "type": "m3u"
     },
     {
-        "name": "SK Tech JTV++",
-        "url": "https://thanks-to-veer.saqlainhaider8198.workers.dev/jtvskplus.m3u[plusjtv]?ua=sktechtv",
-        "type": "m3u"
-    },
-    {
         "name": "PremiumPlug VIP",
         "url": "https://premiumplugx.com/VIP/pluglist.php",
         "type": "m3u",
@@ -63,8 +53,8 @@
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
-        "name": "StreamX JTV",
-        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/strx.m3u",
+        "name": "Pocket-TV",
+        "url": "https://tamil-m3u-b58859.gitlab.io/",
         "type": "m3u"
     },
     {
@@ -77,11 +67,6 @@
         "url": "https://la.drmlive.net/tp/playlist",
         "type": "m3u",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
-    },
-    {
-        "name": "JoIPTV JoJo Pocket",
-        "url": "https://raw.githubusercontent.com/joiptv/jojo/refs/heads/main/pocket.m3u",
-        "type": "m3u"
     },
     {
         "name": "Tamil IPTV",
