@@ -17,17 +17,17 @@
     },
     {
         "name": "CP JTV+",
-        "url": "https://n1.cloudplay.qzz.io/jtv-raw/pllive-prm.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pllive-prm.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 2",
-        "url": "https://n1.cloudplay.qzz.io/jtv-raw/mbjtv-ng.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/mbjtv-ng.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ Backup",
-        "url": "https://n1.cloudplay.qzz.io/jtv-raw/wt-mbtv-ng.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/wt-mbtv-ng.php",
         "type": "m3u"
     },
     {
