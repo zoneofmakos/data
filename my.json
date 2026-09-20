@@ -81,7 +81,8 @@
         "name": "DRM Live",
         "url": "https://la.drmlive.net/tp/playlist",
         "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
+        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)",
+        "sa": true
     },
     {
         "name": "Tamil IPTV",
