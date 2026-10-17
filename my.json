@@ -5,29 +5,23 @@
         "type": "m3u"
     },
     {
-        "name": "CP m3u",
-        "url": "https://m3u.cloudplay.qzz.io/jtvx.m3u",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
-    },
-    {
         "name": "CP JTV+",
-        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pllive-prm.php",
+        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/pl-by-ss.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 2",
-        "url": "https://m3u.cloudplay.qzz.io/jtvbpk.m3u",
+        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/sbl.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 3",
-        "url": "https://host.cloudplay.qzz.io/app/jtv-new/mbjtv-ng.php",
+        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/mbtv.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ Backup",
-        "url": "https://host.cloudplay.qzz.io/app/jtv-new/wt-mbtv-ng.php",
+        "url": "https://m3u.cloudplay.qzz.io/jtvbpk.m3u",
         "type": "m3u"
     },
     {
@@ -39,18 +33,6 @@
         "name": "Pocket-TV",
         "url": "https://tamil-m3u-b58859.gitlab.io/",
         "type": "m3u"
-    },
-    {
-        "name": "PremiumPlug VIP",
-        "url": "https://premiumplugx.com/VIP/pluglist.php",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
-    },
-    {
-        "name": "PremiumPlug JioSTB",
-        "url": "https://premiumplugx.top/jiostb/mjelo.php?view=raw",
-        "type": "m3u",
-        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
         "name": "SIXPG Zeyo JTV",
