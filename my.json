@@ -6,17 +6,17 @@
     },
     {
         "name": "CP JTV+",
-        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/pl-by-ss.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pllive-main.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 2",
-        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/sbl.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pl-by-ss.php",
         "type": "m3u"
     },
     {
         "name": "CP JTV+ 3",
-        "url": "https://n1.cloudplay.qzz.io/playlist-backup90154/mbtv.php",
+        "url": "https://host.cloudplay.qzz.io/app/jtv-new/mbtv.php",
         "type": "m3u"
     },
     {
@@ -30,11 +30,6 @@
         "type": "m3u"
     },
     {
-        "name": "Pocket-TV",
-        "url": "https://tamil-m3u-b58859.gitlab.io/",
-        "type": "m3u"
-    },
-    {
         "name": "SIXPG Zeyo JTV",
         "url": "https://raw.githubusercontent.com/sixpg/zeyo/main/jtv.m3u",
         "type": "m3u"
@@ -42,6 +37,16 @@
     {
         "name": "QWERTY GEO JTV",
         "url": "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv_cf.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Pocket-TV",
+        "url": "https://tamil-m3u-b58859.gitlab.io/",
+        "type": "m3u"
+    },
+    {
+        "name": "PremiumPlugX HTT",
+        "url": "https://premiumplugx.com/htt/hot.php?playlist=1",
         "type": "m3u"
     },
     {
