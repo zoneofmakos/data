@@ -35,18 +35,35 @@
         "type": "m3u"
     },
     {
-        "name": "QWERTY GEO JTV",
-        "url": "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv_cf.m3u",
-        "type": "m3u"
-    },
-    {
         "name": "Pocket-TV",
         "url": "https://tamil-m3u-b58859.gitlab.io/",
-        "type": "m3u"
+        "type": "m3u",
+        "sa": true
+    },
+    {
+        "name": "PremiumPlugX VIP",
+        "url": "https://plugxvipplaylist.lovable.app/api/playlist",
+        "type": "m3u",
+        "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
     {
         "name": "PremiumPlugX HTT",
         "url": "https://premiumplugx.com/htt/hot.php?playlist=1",
+        "type": "m3u"
+    },
+    {
+        "name": "Pocket Hotstar",
+        "url": "https://sportlink-playlist.pages.dev/tstar.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "Pocket Strx",
+        "url": "https://jiostbplus.saregojo99.workers.dev",
+        "type": "m3u"
+    },
+    {
+        "name": "Pocket Alex",
+        "url": "https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/alex.m3u",
         "type": "m3u"
     },
     {
