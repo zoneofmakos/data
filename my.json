@@ -5,33 +5,18 @@
         "type": "m3u"
     },
     {
-        "name": "CP JTV+",
-        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pllive-main.php",
-        "type": "m3u"
-    },
-    {
-        "name": "CP JTV+ 2",
-        "url": "https://host.cloudplay.qzz.io/app/jtv-new/pl-by-ss.php",
-        "type": "m3u"
-    },
-    {
         "name": "CP JTV+ 3",
         "url": "https://host.cloudplay.qzz.io/app/jtv-new/mbtv.php",
         "type": "m3u"
     },
     {
-        "name": "CP JTV+ Backup",
-        "url": "https://m3u.cloudplay.qzz.io/jtvbpk.m3u",
-        "type": "m3u"
-    },
-    {
-        "name": "CP Sony",
-        "url": "https://cloudplay-app-json.pages.dev/pro-raw-files/sony.m3u",
-        "type": "m3u"
-    },
-    {
         "name": "SIXPG Zeyo JTV",
         "url": "https://raw.githubusercontent.com/sixpg/zeyo/main/jtv.m3u",
+        "type": "m3u"
+    },
+    {
+        "name": "QWERTY Geo JTV",
+        "url": "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv_cf.m3u",
         "type": "m3u"
     },
     {
@@ -42,7 +27,7 @@
     },
     {
         "name": "PremiumPlugX VIP",
-        "url": "https://plugxvipplaylist.lovable.app/api/playlist",
+        "url": "https://premiumplugx.com/VIP/pluglist.php",
         "type": "m3u",
         "ua": "OTT Navigator/1.7.1.4 (Linux;Android 13; en; 1fin92n)"
     },
