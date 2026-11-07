@@ -15,6 +15,11 @@
         "type": "m3u"
     },
     {
+        "name": "SIXPG Zeyo Test JTV",
+        "url": "https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u",
+        "type": "m3u"
+    },
+    {
         "name": "QWERTY Geo JTV",
         "url": "https://raw.githubusercontent.com/qwerty180506/Geo/refs/heads/main/jiotv_cf.m3u",
         "type": "m3u"
